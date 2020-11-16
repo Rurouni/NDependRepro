@@ -6,7 +6,6 @@ namespace NDependRepro
     public class CtrDependentBaseClass
     {
         RootClass X;
-
         
         public CtrDependentBaseClass(RootClass x)
         {
